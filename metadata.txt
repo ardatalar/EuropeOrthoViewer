@@ -1,0 +1,14 @@
+[general]
+name=EuropeOrthoViewer
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+version=0.1.0
+author=Arda Atalar
+email=arda.atalar@tum.de
+
+description=Browse and load European orthophoto layers from WMS/WMTS/ArcGIS REST into QGIS.
+about=EuropeOrthoViewer makes European orthophotos easy to find and add to your project. It reads links from a curated catalog you provide, lists available layers from WMS, WMTS, and ArcGIS REST services, and lets you add them with a chosen CRS. Designed to reduce copy-paste hassle and unify access to national imagery services.
+
+category=Raster
+icon=:/resources/GIS.png
+experimental=True

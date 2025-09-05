@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resources/GIS.png</file>
+  </qresource>
+</RCC>
